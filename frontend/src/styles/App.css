@@ -1,0 +1,31 @@
+
+/*MainPage header styles*/
+
+.MainPage{
+
+    margin-top: 0;
+}
+
+header{
+    
+    margin-top: 0;
+    display: flex;
+    align-items: center; 
+    flex-flow: row wrap; 
+    
+}
+
+.HeadLiner{
+
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.LogInBtn {
+
+    font-size: 25px;
+    margin-left: auto;
+
+}
+
