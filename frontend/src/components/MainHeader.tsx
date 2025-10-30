@@ -15,7 +15,7 @@ const MainHeader = () => {
 
                 <img className="Logo" src={logo} alt="SQLFlux Logo" />
 
-                <h1 className="HeadLiner">SQLFlux</h1>
+                <p className="HeadLiner">SQLFlux</p>
 
                 <Button className="LogInBtn" color="default" variant="text" size="large">
                     Log in

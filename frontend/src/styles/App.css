@@ -1,4 +1,9 @@
 
+body{
+
+    margin-top: 0;
+}
+
 /*MainPage header styles*/
 
 .MainPage{
@@ -15,17 +20,26 @@ header{
     
 }
 
+.Logo{
+
+    height: 40px;
+
+}
+
 .HeadLiner{
 
-    font-size: 45px;
-    font-weight: bold;
+    font-size: 40px;    
+    margin: 10px;
+    font-family: k2d-regular-italic;
 
 }
 
 .LogInBtn {
 
-    font-size: 25px;
+    font-size: 20px;
     margin-left: auto;
+    font-family: k2d-regular, sans-serif;
 
 }
+
 
