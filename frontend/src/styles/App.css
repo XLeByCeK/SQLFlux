@@ -4,12 +4,12 @@ body{
     margin-top: 0;
 }
 
-/*MainPage header styles*/
-
 .MainPage{
 
     margin-top: 0;
 }
+
+/*MainPage MainHeader styles*/
 
 header{
     
@@ -42,4 +42,28 @@ header{
 
 }
 
+/*MainPage CodeInputArea styles*/
 
+.InputFieldArea{
+
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+.InputFieldAreaText{
+
+    font-size: 20px;
+    font-family: k2d-regular, sans-serif;
+
+}
+
+.InputFieldAreaBtn{
+
+    margin: 0px 25px 0px 25px;
+    
+}

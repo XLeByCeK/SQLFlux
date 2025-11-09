@@ -1,10 +1,15 @@
-import MainHeader from "../components/MainHeader";
+import MainHeader from "../components/MainPageComponents/MainHeader";
+import CodeInputArea from "../components/MainPageComponents/CodeInputArea";
 
 const MainPage = () => {
     return (
 
         <div className="MainPage">
-            <MainHeader />
+
+            <div><MainHeader /></div>
+
+            <div><CodeInputArea /></div>
+
         </div>
 
     );

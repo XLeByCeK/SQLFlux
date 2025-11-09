@@ -1,7 +1,7 @@
 import React from "react";
 import logo from 'D:/SQLFlux/SQLFlux/frontend/src/assets/Logo.png';
 import { Button, ConfigProvider} from 'antd';
-import '../styles/App.css';
+import '../../styles/App.css';
 
 
 
